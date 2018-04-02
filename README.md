@@ -6,3 +6,5 @@ This project is a development if the In-Window Segmentation (InWiSe) method for 
 ## Requirements
 * Python 3.5
 * Time Series dataset: files of records with variables values at each time unit (see Example Record File file)
+
+![alt text](https://github.com/eladtsur/EpisodePrediction-InWiSe-py/edit/master/Images/windows_basic)
